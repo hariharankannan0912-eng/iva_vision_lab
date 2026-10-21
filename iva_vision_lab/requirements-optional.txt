@@ -1,0 +1,6 @@
+# Optional deep-learning features; install only if you need these tabs.
+deepface>=0.0.90
+keras-facenet>=0.3.2
+mtcnn>=0.1.1
+# TensorFlow is required by keras-facenet and some DeepFace model backends.
+tensorflow>=2.15
